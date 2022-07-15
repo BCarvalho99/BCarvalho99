@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Header](https://i.im.ge/2022/07/15/FT5me4.png?raw=true "Header")](https://github.com/BCarvalho99/)
+## Greetings mate! I'm Bruno  👋
+<div align="center">
+  <a href="https://github.com/bcarvalho99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bcarvalho99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcarvalho99&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **BCarvalho99/BCarvalho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
