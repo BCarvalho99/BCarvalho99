@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com"/></a>
 
 
-## Greetings mate! Welcome to my profile  <img src="https://cdn-longterm.mee6.xyz/plugins/reaction_roles/images/331117236569767939/762c951e72c526055c35f95e7cc06ad6b8ed8d6a9609032d8f6445d4ee1a764a.gif" width="50px" height="50px">
+## Greetings mate! Welcome to my profile  <img src="https://c.tenor.com/8DBL8P0pmgYAAAAi/purple-bat.gif" width="50px" height="50px">
 
 <div align="left">
   <a href="https://github.com/bcarvalho99">
