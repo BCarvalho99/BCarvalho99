@@ -1,4 +1,4 @@
-[![Header](https://i.im.ge/2022/07/15/FT5me4.png?raw=true "Header")](https://github.com/BCarvalho99/)
+[![Header](https://cdn.discordapp.com/attachments/731787158188458024/999438810523914344/Frame_1.png?raw=true "Header")](https://github.com/BCarvalho99/)
 <p align="center">
   <a href="mailto:bcarvalho5699@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bcarvalho5699@gmail.com" /></a>
