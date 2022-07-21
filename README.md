@@ -12,6 +12,8 @@
   <a href="https://www.twitter.com" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com"/></a>
 
+  <a href="https://www.dev.to" alt="Dev.to">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 
 ## Greetings mate! Welcome to my profile  <img src="https://c.tenor.com/8DBL8P0pmgYAAAAi/purple-bat.gif" width="50px" height="50px">
 
