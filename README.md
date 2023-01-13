@@ -16,8 +16,7 @@
 
 <div align="left" style="display: inline_block">
   <a href="https://github.com/bcarvalho99">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=bcarvalho99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcarvalho99&layout=compact&langs_count=7&theme=radical"/>
+
   <img align="right" alt="Bruno" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/731787158188458024/999465621022576680/eu2.png?width=676&height=676">
 </div>
 
