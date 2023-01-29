@@ -35,4 +35,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0e0e0e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-220101?style=for-the-badge&logo=figma&logoColor=da0003)&nbsp;
 
+<div align="left" style="display: inline_flex ">
+
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+     
+
 
