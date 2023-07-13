@@ -37,7 +37,7 @@
 
 <div align="left" style="display: inline_flex ">
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=bcarvalho99&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
