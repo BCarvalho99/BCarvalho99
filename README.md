@@ -43,7 +43,7 @@
 </div>
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![bcarvalho99](https://github-readme-stats.vercel.app/api/top-langs/?username=bcarvalho99&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
